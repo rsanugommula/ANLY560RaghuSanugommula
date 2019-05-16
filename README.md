@@ -1,0 +1,2 @@
+# FunctionalProgrammingMethodsforAnalytics
+My Third Semester Programming Learning
